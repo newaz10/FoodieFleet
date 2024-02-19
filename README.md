@@ -1,7 +1,7 @@
 # Welcome to FoodieFleet
 
 ## Introduction
-FoodieFleet is a responsive website built using `HTML, CSS, and JavaScript`. It offers users an immersive experience to explore a variety of mouth-watering dishes, read customer reviews, and easily place orders. The website's design is visually appealing, user-friendly, and optimized for both desktop and mobile devices.
+FoodieFleet is a responsive website built using `HTML`, `CSS`, and `JavaScript`. It offers users an immersive experience to explore a variety of mouth-watering dishes, read customer reviews, and easily place orders. The website's design is visually appealing, user-friendly, and optimized for both desktop and mobile devices.
 
 You can simply see the webiste on this link [FoodieFleet](https://newaz10.github.io/FoodieFleet/)
 
